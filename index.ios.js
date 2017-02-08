@@ -6,7 +6,7 @@ import {
   Text,
   View,
 } from 'react-native';
-var my = '网络上修改的数据';
+var my = '12345上山打老虎';
 var Main = require("./component/Main");
 export default class DouBanDemo extends Component {
   render() {
