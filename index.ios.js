@@ -7,7 +7,7 @@ import {
   View,
 } from 'react-native';
 
-var my = '你个贱人';
+var my = '你个贱人0';
 
 var Main = require("./component/Main");
 export default class DouBanDemo extends Component {
